@@ -1,4 +1,12 @@
 .recipe {
     font-size: 28px;
-    font-family: ;
+}
+
+.header {
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+
+.description {
+    font-size: 38px;
 }
