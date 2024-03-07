@@ -1,5 +1,17 @@
+.main-header {
+    background-color: lightgoldenrodyellow;
+    padding: 5px 5px 5px 10px;
+    margin: -8px -8px 0px -8px;
+    border-bottom: 4px solid goldenrod;
+}
+
+.recipe-lists {
+    margin-left: -20px;
+}
 .recipe {
-    font-size: 28px;
+    display: block;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .header {
